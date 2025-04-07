@@ -1,0 +1,17 @@
+# Eclipse spezifische Dateien
+.project
+.classpath
+.settings/
+
+# Java Build-Verzeichnisse
+bin/
+target/
+out/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
